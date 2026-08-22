@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Asmaborghan 👋
 
-<!--
-**Asmaborghan/Asmaborghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Computer Science Student & Software Developer
+* 🔭 Passionate about **Machine Learning, Computer Vision, Natural Language Processing, and Full-Stack Development (Front-end & Back-end)**
+* 📍 Based in **Oman**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **AI & Data Science:** Python, PyTorch, Pandas, NumPy, Scikit-Learn, Jupyter Notebooks
+* **Full-Stack Development:** React, Node.js, Express, PHP, Flask, HTML/CSS, JavaScript, Bootstrap
+* **Databases & Tools:** MySQL, Git, GitHub, Burp Suite
+
+---
+
+### 📊 GitHub Stats
+![Asmaborghan's GitHub stats](https://github.com/Asmaborghan)
+
+---
+
+### 🤝 Connect with Me
+* [LinkedIn](www.linkedin.com/in/asma-borghan)
+* [GitHub](https://github.com/Asmaborghan)
