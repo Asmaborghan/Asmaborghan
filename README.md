@@ -2,10 +2,17 @@
 
 * 💻 Computer Science Student & Software Developer
 * 🔭 Passionate about **Machine Learning, Computer Vision, Natural Language Processing, and Full-Stack Development (Front-end & Back-end)**
+* ⚛️ working on **Quantum Machine Learning**: quantum kernels, benchmarking and robustness
 * 📍 Based in **Oman**
 
 ---
+### ⚛️ Featured research
 
+**[Bandwidth-Tuned Quantum Kernels under Data Corruption](https://github.com/Asmaborghan/quantum-kernels-under-corruption)**
+Quantum kernels vs classical models on 8 real datasets under missing values, noise and wrong labels: 2,000 fold-runs, shot-noise simulation and a real IBM quantum computer.
+📓 Beginner walkthrough on [Kaggle](https://www.kaggle.com/code/asmaborghan/quantum-kernels-under-data-corruption)
+
+---
 ### 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
